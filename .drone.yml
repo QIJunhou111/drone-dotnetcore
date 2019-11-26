@@ -9,6 +9,6 @@ steps:
   image: plugins/docker
   settings:
     username:houqijun111
-    password: Hqj931221
-    repo: dinorows/dotnetcore-container
+    password: houhouhou
+    repo: houqijun111/dotnetcore-container
     dockerfile: Web/Dockerfile
