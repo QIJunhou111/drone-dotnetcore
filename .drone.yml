@@ -9,6 +9,7 @@ steps:
   image: plugins/docker
   settings:
     username:houqijun111
-       from_secret:myDroneSceret
+    password:
+       from_secret: myDroneSceret
     repo: houqijun111/dotnetcore-container
     dockerfile: Web/Dockerfile
